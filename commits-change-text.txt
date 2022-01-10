@@ -1,0 +1,5 @@
+commit 427e6763138d4c1059701f366f0f440db531057c
+Author: auevangel <auevangel@gmail.com>
+Date:   Mon Jan 10 19:45:44 2022 +1100
+
+    Text edits according to client's email request
