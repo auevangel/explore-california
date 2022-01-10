@@ -3,3 +3,8 @@ Author: auevangel <auevangel@gmail.com>
 Date:   Mon Jan 10 19:45:44 2022 +1100
 
     Text edits according to client's email request
+commit 37faf54b012b8c6b20b881b151094b743e5370fc
+Author: auevangel <auevangel@gmail.com>
+Date:   Mon Jan 10 19:57:24 2022 +1100
+
+    Remove contractions
