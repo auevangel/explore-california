@@ -1,0 +1,11 @@
+commit b67d2943ada1fa50a77e2574ec73f1f8e5e4dc78
+Author: auevangel <auevangel@gmail.com>
+Date:   Mon Jan 10 19:05:47 2022 +1100
+
+    Copy files for exercise
+
+commit badb738a141341a5b381427db62188246ac95c4f
+Author: auevangel <95333707+auevangel@users.noreply.github.com>
+Date:   Mon Jan 10 19:01:59 2022 +1100
+
+    Initial commit
