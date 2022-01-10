@@ -8,3 +8,6 @@ tmp/nanoc/
 
 # Crash Log
 crash.log
+
+#text files with commits
+commits-*.txt
