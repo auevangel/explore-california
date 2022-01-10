@@ -1,3 +1,21 @@
+commit f610bfd3811f3b9bd8a6c8adcf94cb67de210177
+Author: auevangel <auevangel@gmail.com>
+Date:   Mon Jan 10 19:30:32 2022 +1100
+
+    Change contact number (.4315 to .4314)
+
+commit f1ec96a99279557be51514582631ff7e87d7313c
+Author: auevangel <auevangel@gmail.com>
+Date:   Mon Jan 10 19:28:14 2022 +1100
+
+    Add commits-*.txt to ignore
+
+commit 22a6c9457ebe1ad460448d1f81a228d9f34c2e5b
+Author: auevangel <auevangel@gmail.com>
+Date:   Mon Jan 10 19:26:37 2022 +1100
+
+    Update commits in master
+
 commit b67d2943ada1fa50a77e2574ec73f1f8e5e4dc78
 Author: auevangel <auevangel@gmail.com>
 Date:   Mon Jan 10 19:05:47 2022 +1100
