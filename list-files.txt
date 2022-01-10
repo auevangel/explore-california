@@ -16,7 +16,7 @@ total 24
 drwxr-xr-x 1 aueva 197609     0 Jan 10 19:41 ../
 drwxr-xr-x 1 aueva 197609     0 Jan 10 19:32 ./
 -rw-r--r-- 1 aueva 197609  8119 Jan 10 19:32 tour_detail_bigsur.html
--rw-r--r-- 1 aueva 197609 11568 Jan 10 19:32 tour_detail_backpack.html
+-rw-r--r-- 1 aueva 197609 11568 Jan 10 19:32 tour_detail_backpack_cal.html
 
 resources:
 total 28
